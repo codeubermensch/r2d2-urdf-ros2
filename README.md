@@ -10,7 +10,7 @@ visualizes it in RViz2, and animates it moving in a circle using `robot_state_pu
 
 ## 📸 Demo
 
-https://youtu.be/TTFNajsD9FA?si=HTDlEewnB1rD_RFY
+[![R2D2 Demo](https://img.youtube.com/vi/TTFNajsD9FA/0.jpg)](https://youtu.be/TTFNajsD9FA)
 
 ---
 
